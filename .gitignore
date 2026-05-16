@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+.idea/
+Thumbs.db
+*.tmp
+Directory.Build.user.props
+UnityBundleBuilder/Library/
+UnityBundleBuilder/Logs/
+UnityBundleBuilder/Temp/
+UnityBundleBuilder/obj/
+UnityBundleBuilder/BuiltBundles/
+UnityBundleBuilder/build-bundle.log
