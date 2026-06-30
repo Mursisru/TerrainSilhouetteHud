@@ -10,6 +10,27 @@ Night **terrain ridge outline** on the **Flight HUD** for **Nuclear Option** (Be
 
 **Current version:** **1.3.2** · GUID `com.at747.terrainsilhouettehud` · License: [MIT](LICENSE)
 
+---
+
+## Keywords
+
+nuclear-option, bepinex, harmony, mod, terrainsilhouettehud, csharp, unity
+---
+
+## Critical warnings
+
+> [!IMPORTANT]
+> **BepInEx 5 (x64) required** - install [BepInEx](https://docs.bepinex.dev/articles/user_guide/installation/index.html) before this mod.
+
+> [!IMPORTANT]
+> **Copy `TerrainSilhouetteHud_Data\` with the DLL** - **Gpu** mode needs built `terrainsilhouette_shaders` AssetBundle (see `BUILD_SHADER_BUNDLE.md`).
+
+> [!WARNING]
+> **Collision line only under threat conditions** - below summit, flying toward terrain, TTI < 15 s (red < 4 s); respects `NightOnly` by default.
+
+> [!NOTE]
+> **Default `RenderMode=Heightmap`** - `Gpu` and `LegacyCpu` remain available in config.
+
 ## Features (v1.3.x)
 
 - **Heightmap mode (default):** forward fan samples ground height (`Terrain.SampleHeight` + raycast fallback), ridge silhouette as HUD polyline.
@@ -51,9 +72,3 @@ See [CHANGELOG.md](CHANGELOG.md).
 | GitHub local | `C:\Users\at747\OneDrive\Desktop\GITHUB local\TerrainSilhouetteHud\` |
 
 Build: set `NuclearOptionRoot` in local `Directory.Build.user.props` (not committed).
-
----
-
-## Keywords
-
-nuclear-option, bepinex, harmony, mod, terrainsilhouettehud, csharp, unity
