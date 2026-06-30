@@ -1,4 +1,9 @@
+**Developer:** Mursisru
+
 # Terrain Silhouette HUD
+
+[![Nuclear Option](https://img.shields.io/badge/Game-Nuclear%20Option-blue)](https://store.steampowered.com/app/2168680/Nuclear_Option/) [![BepInEx 5](https://img.shields.io/badge/Loader-BepInEx%205-orange)](https://docs.bepinex.dev/) [![Version](https://img.shields.io/badge/Version-0.0.0-green)]() [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
+
 
 Night **terrain ridge outline** on the **Flight HUD** for **Nuclear Option** (BepInEx 5).
 
@@ -12,6 +17,9 @@ Night **terrain ridge outline** on the **Flight HUD** for **Nuclear Option** (Be
 - **Gpu** / **LegacyCpu** modes still available in config.
 
 ## Install
+
+> [!IMPORTANT]
+> **BepInEx 5 (x64) required** - install [BepInEx](https://docs.bepinex.dev/) before this mod.
 
 1. `Directory.Build.user.props` ← copy from `Directory.Build.user.props.example`, set `NuclearOptionRoot`.
 2. Build **Release** (`TerrainSilhouetteHud_Engine.slnx`).
@@ -42,3 +50,9 @@ See [CHANGELOG.md](CHANGELOG.md).
 | GitHub local | `C:\Users\at747\OneDrive\Desktop\GITHUB local\TerrainSilhouetteHud\` |
 
 Build: set `NuclearOptionRoot` in local `Directory.Build.user.props` (not committed).
+
+---
+
+## Keywords
+
+nuclear-option, bepinex, harmony, mod, terrainsilhouettehud, csharp, unity

@@ -13,3 +13,11 @@ UnityBundleBuilder/Temp/
 UnityBundleBuilder/obj/
 UnityBundleBuilder/BuiltBundles/
 UnityBundleBuilder/build-bundle.log
+libs/
+Directory.Build.props
+.cursorrules
+.cursor/
+ffmpeg.exe
+local_build_scripts/
+_buildroot/
+.debug/

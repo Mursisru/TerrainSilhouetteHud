@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.0.0] - 2026-06-30
+
+### Changed
+- Documentation refresh: Developer header, badges, GitHub Alerts, Keywords, gitignore hygiene.
+
+
 ## 1.3.2
 
 - Sharper terrain-following line: neighbor/world azimuth blur off by default, 96 azimuth samples, finer height step.
