@@ -5,16 +5,6 @@
 [![Nuclear Option](https://img.shields.io/badge/Game-Nuclear%20Option-blue)](https://store.steampowered.com/app/2168680/Nuclear_Option/) [![BepInEx 5](https://img.shields.io/badge/Loader-BepInEx%205-orange)](https://docs.bepinex.dev/) [![Version](https://img.shields.io/badge/Version-1.3.2-green)](https://github.com/Mursisru/TerrainSilhouetteHud/releases/tag/v1.3.2)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/Mursisru/TerrainSilhouetteHud/blob/main/LICENSE)
 
-
-Night **terrain ridge outline** on the **Flight HUD** for **Nuclear Option** (BepInEx 5).
-
-**Current version:** **1.3.2** · GUID `com.at747.terrainsilhouettehud` · License: [MIT](LICENSE)
-
----
-
-## Keywords
-
-nuclear-option, bepinex, harmony, mod, terrainsilhouettehud, csharp, unity
 ---
 
 ## Critical warnings
@@ -30,6 +20,10 @@ nuclear-option, bepinex, harmony, mod, terrainsilhouettehud, csharp, unity
 
 > [!NOTE]
 > **Default `RenderMode=Heightmap`** - `Gpu` and `LegacyCpu` remain available in config.
+
+Night **terrain ridge outline** on the **Flight HUD** for **Nuclear Option** (BepInEx 5).
+
+**Current version:** **1.3.2** · GUID `com.at747.terrainsilhouettehud` · License: [MIT](LICENSE)
 
 ## Features (v1.3.x)
 
@@ -72,3 +66,9 @@ See [CHANGELOG.md](CHANGELOG.md).
 | GitHub local | `C:\Users\at747\OneDrive\Desktop\GITHUB local\TerrainSilhouetteHud\` |
 
 Build: set `NuclearOptionRoot` in local `Directory.Build.user.props` (not committed).
+
+---
+
+## Keywords
+
+nuclear-option, bepinex, harmony, mod, terrainsilhouettehud, csharp, unity
