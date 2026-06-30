@@ -8,12 +8,9 @@
 ---
 
 ## Critical warnings
-
 > [!IMPORTANT]
-> **BepInEx 5 (x64) required** - install [BepInEx](https://docs.bepinex.dev/articles/user_guide/installation/index.html) before this mod.
-
-> [!IMPORTANT]
-> **Copy `TerrainSilhouetteHud_Data\` with the DLL** - **Gpu** mode needs built `terrainsilhouette_shaders` AssetBundle (see `BUILD_SHADER_BUNDLE.md`).
+> - **BepInEx 5 (x64) required** - install [BepInEx](https://docs.bepinex.dev/articles/user_guide/installation/index.html) before this mod.
+> - **Copy `TerrainSilhouetteHud_Data\` with the DLL** - **Gpu** mode needs built `terrainsilhouette_shaders` AssetBundle (see `BUILD_SHADER_BUNDLE.md`).
 
 > [!WARNING]
 > **Collision line only under threat conditions** - below summit, flying toward terrain, TTI < 15 s (red < 4 s); respects `NightOnly` by default.
