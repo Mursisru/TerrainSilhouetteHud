@@ -2,7 +2,8 @@
 
 # Terrain Silhouette HUD
 
-[![Nuclear Option](https://img.shields.io/badge/Game-Nuclear%20Option-blue)](https://store.steampowered.com/app/2168680/Nuclear_Option/) [![BepInEx 5](https://img.shields.io/badge/Loader-BepInEx%205-orange)](https://docs.bepinex.dev/) [![Version](https://img.shields.io/badge/Version-1.3.2)]() [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
+[![Nuclear Option](https://img.shields.io/badge/Game-Nuclear%20Option-blue)](https://store.steampowered.com/app/2168680/Nuclear_Option/) [![BepInEx 5](https://img.shields.io/badge/Loader-BepInEx%205-orange)](https://docs.bepinex.dev/) [![Version](https://img.shields.io/badge/Version-1.3.2-green)](https://github.com/Mursisru/TerrainSilhouetteHud/releases/tag/v1.3.2)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/Mursisru/TerrainSilhouetteHud/blob/main/LICENSE)
 
 
 Night **terrain ridge outline** on the **Flight HUD** for **Nuclear Option** (BepInEx 5).
